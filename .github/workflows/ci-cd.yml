@@ -29,3 +29,4 @@ jobs:
           context: .
           push: true
           tags: ghcr.io/pika4oy/my-devops-app:latest
+# FORCED LOWERCASE FIX - NOV 10 2025
